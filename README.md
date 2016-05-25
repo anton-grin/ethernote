@@ -2,6 +2,8 @@
 
 Open Smart Contract Template for Promissory Note DApp (Lump-Sum Repayment).
 
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000)]()
+
 ## How does it work?
 
 High level worklfow diagram:
