@@ -1,6 +1,6 @@
 # Ethernote
 
-Open Smart Contract Template for Promissory Note (Lump-Sum Repayment).
+Open Smart Contract Template for Promissory Note DApp (Lump-Sum Repayment).
 
 ## How does it work?
 
