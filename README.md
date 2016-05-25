@@ -25,9 +25,12 @@ A borrower fills the note details
 ### Step 2
 
 A lender fills the note detail
+
 ![Step 2](https://raw.githubusercontent.com/blocknotary/ethernote/master/design/cert_2.png)
 
 ### Step 3
+
+After the note is signed the note template is fixed and a footer added. On the right side of the note there is a history/timeline which is updated by changes in note and related smart contract.
 
 ![Step 3](https://raw.githubusercontent.com/blocknotary/ethernote/master/design/cert_3.png)
 
@@ -35,6 +38,7 @@ A lender fills the note detail
 ## Documents
 
 Lump-Sum Repayment Promissory Note template:
+
 https://docs.google.com/document/d/1MdvXL_PHxQREp1CU-PT3isyQQnTwbQl0hBtSnnM3bHs/edit?usp=sharing
 
 ## License
