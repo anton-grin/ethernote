@@ -1,5 +1,7 @@
 # Ethernote
 
+[![Join the chat at https://gitter.im/blocknotary/ethernote](https://badges.gitter.im/blocknotary/ethernote.svg)](https://gitter.im/blocknotary/ethernote?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Open Smart Contract Template for Promissory Note DApp (Lump-Sum Repayment).
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000)]()
