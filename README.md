@@ -45,9 +45,11 @@ After the note is signed the note template is fixed and a footer added. On the r
 
 ## Working with a list of notes
 
-### Lender, my notes
+### Lender, List of all notes
 
 ![Lender my notes](https://raw.githubusercontent.com/blocknotary/ethernote/master/design/lender_notes.png)
+
+
 ## Sign up
 
 
