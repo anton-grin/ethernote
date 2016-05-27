@@ -1,4 +1,4 @@
-# Ethernote
+![Ethernote](https://raw.githubusercontent.com/blocknotary/ethernote/master/design/logo.png)
 
 Open Smart Contract Template for Promissory Note DApp (Lump-Sum Repayment).
 
